@@ -8,6 +8,6 @@ $(document).ready(lastImageSelector()){
 }
 
 $(document).ready(ninjaBabySelector()){
-  return $('#ninja-baby')
+  return $('#baby-ninja')
   
 }
