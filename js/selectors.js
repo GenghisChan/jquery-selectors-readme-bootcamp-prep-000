@@ -4,7 +4,7 @@ $(document).ready(paragaphSelector()){
 }
 
 $(document).ready(lastImageSelector()){
-  return $('img:last')
+  return $('img:last');
 }
 
 $(document).ready(ninjaBabySelector()){
