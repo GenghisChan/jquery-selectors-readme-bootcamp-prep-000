@@ -1,9 +1,8 @@
 // declare your functions here...
-$(document).ready(paragaphSelector(){
+$(document).ready(paragaphSelector()){
   return $('p');
-});
+}
 
-$(document).ready(lastImageSelector(){
+$(document).ready(lastImageSelector()){
   
-  
-});
+}
