@@ -3,7 +3,7 @@ $(document).ready(paragaphSelector()){
   $('p');
 }
 
-$(document).ready(lastImageSelector());{
+$(document).ready(lastImageSelector()){
   $('img:last');
 }
 
