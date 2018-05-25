@@ -1,5 +1,5 @@
 // declare your functions here...
-$(document).ready(paragaphSelector());{
+$(document).ready(paragaphSelector(){
   $('p');
 }
 
