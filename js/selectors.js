@@ -1,20 +1,19 @@
-// declare your functions here...
-$(document).ready(paragaphSelector());{
-  $('p');
+function paragraphSelector(){
+  return $('p');
 }
 
-$(document).ready(lastImageSelector(){
-  $('img:last');
-});
+function lastImageSelector(){
+  return $('img:last');
+}
 
-$(document).ready(ninjaBabySelector(){
-  $('#baby-ninja');
-});
+function ninjaBabySelector(){
+  return $('#baby-ninja')
+}
 
-$(document).ready(divSelector(){
-  $('.pics');
-});
+function divSelector(){
+  return $('.pics');
+}
 
-$(document).ready(firstListItem(){
-  $('#pic-list ul li:first-child');
-});
+function firstListItem(){
+  return $('ul#pic-list li:first-child');
+}
