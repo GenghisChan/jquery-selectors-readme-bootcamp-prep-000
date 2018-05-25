@@ -9,5 +9,8 @@ $(document).ready(lastImageSelector()){
 
 $(document).ready(ninjaBabySelector()){
   return $('#baby-ninja')
+}
+
+$(document).ready(divSelector()){
   
 }
