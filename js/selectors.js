@@ -1,7 +1,7 @@
 // declare your functions here...
 $(document).ready(paragaphSelector(){
   $('p');
-}
+});
 
 $(document).ready(lastImageSelector());{
   $('img:last');
