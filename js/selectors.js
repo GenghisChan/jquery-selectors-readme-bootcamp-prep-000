@@ -4,17 +4,17 @@ $(document).ready(paragaphSelector());{
 }
 
 $(document).ready(lastImageSelector());{
-  return $('img:last');
+  $('img:last');
 }
 
 $(document).ready(ninjaBabySelector());{
-  return $('#baby-ninja');
+  $('#baby-ninja');
 }
 
 $(document).ready(divSelector());{
-  return $('.pics');
+  $('.pics');
 }
 
 $(document).ready(firstListItem());{
-  return $('#pic-list ul li:first-child');
+  $('#pic-list ul li:first-child');
 }
