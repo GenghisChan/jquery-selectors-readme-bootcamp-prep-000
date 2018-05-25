@@ -14,3 +14,7 @@ $(document).ready(ninjaBabySelector()){
 $(document).ready(divSelector()){
   return $('.pics')
 }
+
+$(document).ready(firstListItem()){
+  return $('ul #pic-list img:first-child')
+}
