@@ -1,6 +1,6 @@
 // declare your functions here...
 $(document).ready(paragaphSelector());{
-  return $('p');
+  $('p');
 }
 
 $(document).ready(lastImageSelector());{
