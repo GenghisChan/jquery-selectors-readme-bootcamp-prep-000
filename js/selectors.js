@@ -12,5 +12,5 @@ $(document).ready(ninjaBabySelector()){
 }
 
 $(document).ready(divSelector()){
-  
+  return $('.pics')
 }
