@@ -6,3 +6,8 @@ $(document).ready(paragaphSelector()){
 $(document).ready(lastImageSelector()){
   return $('img:last')
 }
+
+$(document).ready(ninjaBabySelector()){
+  return $('.')
+  
+}
